@@ -17,8 +17,8 @@ This project provides two sets of code, covering everything from low-level debug
 
 Check out the raw, unedited 30-second operational cycles showcasing the smooth kinematics and interference-free logic:
 
-*   **[Watch Demo One](./demo_one.mp4)** 
-*   **[Watch Demo Two](./demo_two.mp4)**
+*   **[Watch Demo One(click view raw to download the raw video)](./demo_one.mp4)** 
+*   **[Watch Demo Two(click view raw to download the raw video)](./demo_two.mp4)**
 
 ## Hardware Components
 *   **Main Controller**: ESP32 Development Board (utilizing its hardware PWM resources)
